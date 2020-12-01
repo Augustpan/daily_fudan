@@ -8,3 +8,6 @@ account
 /account.txt
 /sess.data
 /dailyFudan3.1.py
+json_examples/failed.json
+json_examples/geo_api_info.json
+json_examples/success.json
